@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BasicReflectKnow/BasicReflectKnow.iml" filepath="$PROJECT_DIR$/BasicReflectKnow/BasicReflectKnow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/masterSpring.iml" filepath="$PROJECT_DIR$/.idea/masterSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masterSpring.iml" filepath="$PROJECT_DIR$/masterSpring.iml" />
     </modules>
   </component>
 </project>
